@@ -1,0 +1,7 @@
+chainlit
+openai
+python-dotenv
+PyPDF2 
+chromadb
+pdfplumber
+-e .
